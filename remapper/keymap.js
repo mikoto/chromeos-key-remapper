@@ -7,7 +7,9 @@ const keymap = [
   {'match': 'C-f', 'emit': ['ArrowRight']}, // cursor: forward one character
   {'match': 'C-b', 'emit': ['ArrowLeft']}, // cursor: back one character
   {'match': 'C-p', 'emit': ['ArrowUp']}, // cursor: previous line
-  {'match': 'C-n', 'emit': ['ArrowDown']}, // cursor: next line
+  {'match': 'C-n', 'emit': ['ArrowDown'] }, // cursor: next line
+  {'match': 'C-m', 'emit': ['Enter'] }, // c-m replacement: Return
+  {'match': 'C-j', 'emit': ['Enter']}, // c-j replacement: Return
   {'match': 'C-k', 'emit': ['S-End', 'Backspace']}, // cursor: cut to end of line
   {'match': 'C-h', 'emit': ['Backspace']}, // cursor: backspace
   {'match': 'C-d', 'emit': ['Delete']}, // cursor: delete one char
