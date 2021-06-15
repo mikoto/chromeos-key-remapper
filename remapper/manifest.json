@@ -20,7 +20,7 @@
       "type": "ime",
       "id": "io.github.mikoto.cros_key_remapper",
       "description": "US keyboard with emacs-like cursor movement with Japanese IME",
-      "language": "ja",
+      "language": "en",
       "layouts": ["us"]
     }
   ]
