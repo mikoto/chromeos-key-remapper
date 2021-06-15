@@ -1,8 +1,7 @@
 # What is this?
 Forked from [ento/chromeos-key-remapper](https://github.com/ento/chromeos-key-remapper)
 
-- Base IME: [SKK](https://github.com/jmuk/chrome-skk/tree/master/extension) (It is placed into [/imes/skk](https://github.com/mikoto/chromeos-key-remapper/tree/master/imes/skk))
-- Keymap: [keymap.js](https://github.com/mikoto/chromeos-key-remapper/blob/master/remapper/keymap.js)
+Keymap: [keymap.js](https://github.com/mikoto/chromeos-key-remapper/blob/master/remapper/keymap.js)
 
 ## Supporting Docker
 You can build with Docker
