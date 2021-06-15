@@ -1,6 +1,5 @@
 *~
 /build/
-/config.ini
 /imes/*
 !/imes/remapper
 .lock*
