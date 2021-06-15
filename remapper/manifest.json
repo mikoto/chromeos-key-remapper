@@ -1,8 +1,8 @@
 {
-  "name": "US keyboard x emacs",
+  "name": "JP with Emacs Keybinds",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "US keyboard with emacs-like cursor movement",
+  "description": "US keyboard with emacs-like cursor movement with Japanese IME",
   "background": {
     "scripts": [
       "preamble.js",
@@ -16,11 +16,11 @@
   ],
   "input_components": [
     {
-      "name": "US x emacs",
+      "name": "JP with Emacs Keybinds",
       "type": "ime",
-      "id": "io.github.ento.cros_key_remapper",
-      "description": "US keyboard with emacs-like cursor movement",
-      "language": "en-US",
+      "id": "io.github.mikoto.cros_key_remapper",
+      "description": "US keyboard with emacs-like cursor movement with Japanese IME",
+      "language": "ja",
       "layouts": ["us"]
     }
   ]

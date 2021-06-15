@@ -2,6 +2,7 @@
 /build/
 /imes/*
 !/imes/remapper
+!/imes/skk
 .lock*
 /node_modules/
 /waf
